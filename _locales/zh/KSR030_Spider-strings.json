@@ -1,0 +1,20 @@
+{
+	"KSR030_Spider|block": "KSR030_Spider",
+	"KSR030_Spider.SpiderServoNum.L_Lower_Thigh|block": "後左小腿",
+	"KSR030_Spider.SpiderServoNum.R_Lower_Thigh|block": "後右小腿",
+	"KSR030_Spider.SpiderServoNum.R_Forearm|block": "前右小腿",
+	"KSR030_Spider.SpiderServoNum.L_Forearm|block": "前左小腿",
+	"KSR030_Spider.SpiderServoNum.L_Upper_Thigh|block": "後左大腿",
+	"KSR030_Spider.SpiderServoNum.R_Upper_Thigh|block": "後右大腿",
+	"KSR030_Spider.SpiderServoNum.R_Upper_Arm|block": "前右大腿",
+	"KSR030_Spider.SpiderServoNum.L_Upper_Arm|block": "前左大腿",
+	"KSR030_Spider.SpiderState.forward|block": "前進",
+	"KSR030_Spider.SpiderState.backward|block": "後退",
+	"KSR030_Spider.SpiderState.Leftward|block": "往左",
+	"KSR030_Spider.SpiderState.Rightward|block": "往右",
+	"KSR030_Spider.SpiderState.stand_up|block": "站立",
+	"KSR030_Spider.SpiderState.get_down|block": "趴下",
+	"KSR030_Spider.SpiderState.calibration|block": "校準",
+	"KSR030_Spider.SpiderServo|block": "關節 %channel 轉 %degree角度",
+	"KSR030_Spider.Spider_Action|block": "動作 %index 速度 %speed"
+}
