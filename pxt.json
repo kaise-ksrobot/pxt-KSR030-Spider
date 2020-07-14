@@ -1,0 +1,22 @@
+{
+    "name": "KSR030_Spider",
+    "version": "0.4.0",
+    "description": "Extension for KAISE KSRobot KSR030 8 Axis Spider Kit ",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "_locales/zh/KSR030_Spider-strings.json"
+    ],
+    "testFiles": [
+        "tests.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
